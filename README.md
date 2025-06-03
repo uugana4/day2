@@ -3,4 +3,4 @@ bodlogo1 result;
 beecrowd result;
 ![F0D99C37-7583-44B7-8029-09C8A0429797](https://github.com/user-attachments/assets/a9389181-69e1-4b2b-9042-ac839a2c83e3)
 bodlogo2 result;
-![2BF80B0B-AAE4-4922-B842-8E2519D17A1C_4_5005_c](https://github.com/user-attachments/assets/1b1222db-a7f2-41c8-bef3-03d699b558bf)
+![EF8D22D9-A112-4365-A961-37CAB872EB39_4_5005_c](https://github.com/user-attachments/assets/886427bc-a172-443e-89a7-fe194b9624aa)
